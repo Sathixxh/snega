@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "708315893943",
+    "project_id": "fir-firebase-8988c",
+    "storage_bucket": "fir-firebase-8988c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708315893943:android:97be9fcb78578314d2bd32",
+        "android_client_info": {
+          "package_name": "com.example.localnoti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFPWhM3CjSGjZKef09LNtJXIWmh2Luj54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708315893943:android:0889a063c059ddacd2bd32",
+        "android_client_info": {
+          "package_name": "com.example.mywebapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFPWhM3CjSGjZKef09LNtJXIWmh2Luj54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
